@@ -27,6 +27,13 @@ Have fun!
 
 # Screenshots
 
+I uploaded some screenshots, so you can directly see what this mod is about and compare how the same location looks if the mod is disabled.
+
+Mod ON
+[20210414185706_1](https://user-images.githubusercontent.com/75583358/114753562-dff4a580-9d57-11eb-980c-ff98d53431b9.jpg)
+Mod OFF!
+![20210414185704_1](https://user-images.githubusercontent.com/75583358/114753581-e71bb380-9d57-11eb-8ab0-f361b8e9c125.jpg)
+
 Mod ON
 ![20210414185522_1](https://user-images.githubusercontent.com/75583358/114753024-4d540680-9d57-11eb-99f1-0d58f2763f89.jpg)
 Mod OFF
