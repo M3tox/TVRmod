@@ -40,11 +40,6 @@ Mod OFF
 ![20210414185519_1](https://user-images.githubusercontent.com/75583358/114753124-652b8a80-9d57-11eb-95dd-42cea7d82cb2.jpg)
 
 Mod ON
-![20210414185706_1](https://user-images.githubusercontent.com/75583358/114753158-6ceb2f00-9d57-11eb-93f0-9be7e8daa175.jpg)
-Mod OFF
-![20210414185704_1](https://user-images.githubusercontent.com/75583358/114753181-7379a680-9d57-11eb-837c-b1358318bb2b.jpg)
-
-Mod ON
 ![20210414185812_1](https://user-images.githubusercontent.com/75583358/114753260-8c825780-9d57-11eb-8904-725e6c1df00d.jpg)
 Mod OFF
 ![20210414185814_1](https://user-images.githubusercontent.com/75583358/114753282-92783880-9d57-11eb-96ee-fffcb51a0c5a.jpg)
