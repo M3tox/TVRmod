@@ -1,6 +1,6 @@
 # Titanic VR mod
 
-What you see here is a mod for the game Titanic VR. You can download it in the release section.
+What you see here is a mod for the game Titanic VR. You can download it in the release section [or you click HERE](https://github.com/M3tox/TVRmod/releases/download/0.8/TVRmod_v0.8.zip)
 
 It allows the player with a single press on the 'o'-key to toggle the mod on and off at runtime.
 When activated, the following things are changed:
@@ -10,8 +10,6 @@ When activated, the following things are changed:
 - speed of submarine increased
 - speed of ROV increased
 - maximum distance of ROV unlimited, so you can go away from the submarine as far as you want
-
-I decided to not publish the code in order to not get into trouble with the developers.
 
 # Installation
 It is simple, all you have to do is to replace a single file. Go to your installation folder and look for:
